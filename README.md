@@ -1,4 +1,4 @@
-# Sales Prediction
+# Walmart Sales Prediction
 
 The project uses weekly sales information from Walmart to train a machine learning algorithm to predict future sales.
 
